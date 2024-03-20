@@ -1,0 +1,27 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react.git",
+    "directory": "packages/react-dom"
+  },
+  "dependencies": {
+    "blerg": "^0.0.3",
+    "test.js": "^1.0.0"
+  },
+  "name": "@scope-name/aungminko",
+  "bugs": {
+    "url": "https://github.com/facebook/react/issues"
+  },
+  "homepage": "https://github.com/facebook/react#readme",
+  "version": "1.0.1",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "command"
+  ],
+  "author": "amk-mm <aungminko@silverwaveenergy.com>",
+  "license": "MIT"
+}
