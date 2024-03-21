@@ -5,6 +5,7 @@
     "directory": "packages/react-dom"
   },
   "dependencies": {
+    "@ptb/style": "^1.0.0",
     "blerg": "^0.0.3",
     "pipx": "^1.0.1",
     "test.js": "^1.0.0"
