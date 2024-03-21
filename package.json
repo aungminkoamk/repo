@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "blerg": "^0.0.3",
+    "pipx": "^1.0.1",
     "test.js": "^1.0.0"
   },
   "name": "@scope-name/aungminko",
