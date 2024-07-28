@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **etc**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [Aung Min Ko@Profile](https://gravatar.com/aungminko)
 
 - 💬 Ask me about **react**
 
